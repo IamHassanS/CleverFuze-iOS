@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseURL</key>
+	<string>https://staging.reloprosoftware.com/api/</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>source-sans-pro-black-italic.ttf</string>
+		<string>source-sans-pro-black.ttf</string>
+		<string>source-sans-pro-bold-italic.ttf</string>
+		<string>source-sans-pro-bold.ttf</string>
+		<string>source-sans-pro-extralight-italic.ttf</string>
+		<string>source-sans-pro-extralight.ttf</string>
+		<string>source-sans-pro-italic.ttf</string>
+		<string>source-sans-pro-light-italic.ttf</string>
+		<string>source-sans-pro-light.ttf</string>
+		<string>source-sans-pro-regular.ttf</string>
+		<string>source-sans-pro-semibold-italic.ttf</string>
+		<string>source-sans-pro-semibold.ttf</string>
+	</array>
+</dict>
+</plist>
